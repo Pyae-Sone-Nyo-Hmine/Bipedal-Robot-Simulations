@@ -31,7 +31,7 @@ _DEFAULT_TIME_LIMIT = 25
 _CONTROL_TIMESTEP = .025
 
 # Minimal height of torso over foot above which stand reward is 1.
-_STAND_HEIGHT = 0.95
+_STAND_HEIGHT = 1.0
 
 # Horizontal speeds (meters/second) above which move reward is 1.
 _WALK_SPEED = 1
